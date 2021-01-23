@@ -1,6 +1,6 @@
 # github
 
-LearningFuze uses GitHub **a lot**! Your GitHub account is going to be the center of your development work with us, so if you have not already created a GitHub account, then **sign up now**.
+LearningFuze uses GitHub **a lot**! Your GitHub account is going to be the center of your coursework with us, so if you have not already created a GitHub account, then **sign up now**.
 
 https://github.com/join
 
