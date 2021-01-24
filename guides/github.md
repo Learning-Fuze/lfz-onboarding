@@ -1,10 +1,8 @@
-# github
+# GitHub
 
-LearningFuze uses GitHub **a lot**! Your GitHub account is going to be the center of your coursework with us, so if you have not already created a GitHub account, then **sign up now**.
+LearningFuze uses GitHub **a lot**! Your GitHub account is going to be the center of your coursework with us, so if you have not already created a GitHub account, then [**sign up now**](https://github.com/join).
 
-https://github.com/join
-
-If you have already signed up for a GitHub account, then continue to the steps below to make sure your profile is up-to-date with useful information.
+If you have already signed up for a GitHub account, then continue through the steps below to make sure your profile is up-to-date with useful information.
 
 We have specific guidelines for each of our students' GitHub profiles. If yours does not meet these criteria, be sure to make changes.
 
@@ -78,3 +76,9 @@ Once you have double-checked your **profile picture** and your **username** so t
 <p align="middle">
   <img src="../assets/github-username-slack.png" alt="send github username via slack">
 </p>
+
+## Get Connected
+
+An instructor will send you a Slack message when you are ready to [connect with LearningFuze on GitHub](./lms.md).
+
+Sit tight!

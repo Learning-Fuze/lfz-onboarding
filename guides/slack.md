@@ -1,4 +1,4 @@
-# slack
+# Slack
 
 Completing your Slack setup is fairly simple.
 
@@ -40,3 +40,7 @@ To change your name and profile picture, follow these steps:
     </p>
 
 1. Hit **Save Changes** when you're done!
+
+## Ready to move on!
+
+Now that your Slack profile is all set, [continue to create or update your GitHub profile](./github.md).
