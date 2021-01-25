@@ -12,11 +12,19 @@ Here at LearningFuze, we use a specific code editor setup, so there is a separat
 
 [Follow the instructions here](https://github.com/Learning-Fuze/lfz-code).
 
-- If you get a 404 page, then make sure you are **signed into GitHub** and try again.
+- If you get a 404 page, then make sure you are **signed into GitHub**  and try again.
 - If you _still_ get a 404 page, then something is amiss. Make sure that:
-  - the [instructors know your GitHub username](github.md#notify-us)
-  - and that you have [joined our GitHub team](lms.md#join-the-team).
+  - the instructors **know your GitHub username**
+  - and that you have **joined our GitHub team**.
 
 <p align="middle">
   <img src="../assets/github-not-found.png" alt="example 404 page">
+</p>
+
+<p align="middle">
+  <img src="../assets/github-username-slack.png" alt="send github username via slack">
+</p>
+
+<p align="middle">
+  <img src="../assets/github-invitation.png" alt="join the team">
 </p>
