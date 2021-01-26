@@ -38,19 +38,21 @@ Once you have finished setting up your code editor (by following the above instr
 - on macOS, open the **Terminal** app.
 - on Windows, open the **Git Bash** app.
 
-Run the following commands to tell Git who you are and what your email is. **Note: `"Joe King"` and `"joe.king@email.org"` are just examples. Use your own name and email address 😂.**
+Run the following commands to tell Git who you are and what your email is. **Note: `"Joe King"` and `"joe.king@email.org"` are just examples. Use your own name and email address 😂.** Type each command into **Terminal** and press `Enter`.
+
+To tell Git your **name**:
 
 ```bash
 git config --global user.name "Joe King"
 ```
 
-and then
+and then your **email**. **This should be the same email address you used to sign up for GitHub.
 
 ```bash
 git config --global user.email "joe.king@email.org"
 ```
 
-Check your settings like this.
+Double-check your settings for typos like this.
 
 ```bash
 git config --global --list
@@ -64,4 +66,27 @@ You can fix typos in your name or email address by running the commands again.
   <img src="../assets/git-config.gif" alt="configuring git">
 </p>
 
-## Create a `repos/` directory
+## Create a `repos` directory
+
+Your work will all be stored in a single directory (aka "folder") named `repos`.
+
+- on macOS, open the **Terminal** app.
+- on Windows, open the **Git Bash** app.
+
+Type the following command and press `Enter` to create the directory:
+
+```bash
+mkdir -p ~/repos
+```
+
+then verify that the directory was created with the following command and press `Enter`:
+
+```bash
+ls ~
+```
+
+### Example
+
+<p align="middle">
+  <img src="../assets/mkdir-repos.gif" alt="create the repos directory">
+</p>
