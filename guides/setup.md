@@ -90,3 +90,46 @@ ls ~
 <p align="middle">
   <img src="../assets/mkdir-repos.gif" alt="create the repos directory">
 </p>
+
+## Clone your solutions repository
+
+When you signed into [the Learning Management System](https://lfz-lms.herokuapp.com/learn), a new repository was created for you on your GitHub account. If you visit your profile on GitHub and then go to the **Repositories** tab, you should see it.
+
+In the example image below, the student was enrolled in our **Prep Class for October, 2020**, hence their repository was named `prep-1020-code-solutions`. Your repository's name will likely be similar, but different depending on which class you are enrolled in.
+
+**Note: If you cannot find your repository on GitHub, stop and notify an instructor via Slack.**
+
+<p align="middle">
+  <img src="../assets/code-solutions-repo.png" alt="example code solutions repo">
+</p>
+
+- on macOS, open the **Terminal** app.
+- on Windows, open the **Git Bash** app.
+
+In this step, you are going to download a copy of this repository to your computer. Find the big green **Code** button on your GitHub repository and click it. Change directories into your `repos` directory with the following command:
+
+```bash
+cd ~/repos
+```
+
+Then clone your code solutions repository from GitHub. You will paste in your own URL, like in the GIF below.
+
+```bash
+git clone <paste your URL here>
+```
+
+Then double-check that your repository was cloned successfully by typing **`ls`** and pressing `Enter`.
+
+```bash
+ls
+```
+
+### Example
+
+<p align="middle">
+  <img src="../assets/git-clone.gif">
+</p>
+
+## Ready!
+
+You are now all set to start receiving assignments from the instructor! 🎉
