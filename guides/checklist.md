@@ -26,12 +26,6 @@ Here are all of the items that need to be completed before a student's setup is 
 
     When they run `git config --global --list` (in **Terminal** on macOS or **Git Bash** on Windows), their name and email address are shown.
 
-1. The student has a [`repos` directory](setup.md#create-a-repos-directory) in their home directory.
-
-    **How to check:**
-
-    You can see `repos` listed when the student does `ls ~` (in **Terminal** on macOS or **Git Bash** on Windows).
-
 1. The student has [VS Code set up "correctly"](setup.md#code-editor). **IF THE AUTO INSTALLER FAILED, WE NEED THE ERROR LOG FILE.**
 
     **How to check:**
@@ -49,6 +43,12 @@ Here are all of the items that need to be completed before a student's setup is 
     **How to check:**
 
     The command `npm -v` should show the version number (in **Terminal** on macOS or **Git Bash** on Windows).
+
+1. The student has a [`repos` directory](setup.md#create-a-repos-directory) in their home directory.
+
+    **How to check:**
+
+    You can see `repos` listed when the student does `ls ~` (in **Terminal** on macOS or **Git Bash** on Windows).
 
 1. The student has their [`*-code-solutions` repository](setup.md#clone-your-solutions-repository) on GitHub for the current class.
 
