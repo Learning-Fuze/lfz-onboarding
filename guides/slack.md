@@ -41,6 +41,14 @@ To change your name and profile picture, follow these steps:
 
 1. Hit **Save Changes** when you're done!
 
+## Sign into the iOS or Android App
+
+In professional development, communication is key! Sometimes things happen and we aren't able to get to a computer.
+
+1. Find Slack in the Apple App store or the Google Play store.
+2. Install Slack on your phone.
+3. Sign into the LearningFuze team.
+
 ## Ready to move on!
 
 Now that your Slack profile is all set, [continue to create or update your GitHub profile](./github.md).
